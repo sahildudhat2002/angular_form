@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "sahil",
+      "lastName": "dudhat",
+      "email": "sahil@gmail.com",
+      "password": "12",
+      "contact": "8160098920"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
